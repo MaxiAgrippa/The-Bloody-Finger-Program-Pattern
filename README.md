@@ -24,18 +24,18 @@ This program pattern would be perfect for you to be in a team which none of the 
 
 8. Give document to every line of the code, every condition in the condition line, every calculation, operation, call. That's the way to catch the last hope of your project when your stupid team members finally killed some of themselves and start to work.
 
-8. Test your code's shit out. You are human, you make mistakes. Test is not designed to find all the mistakes. Test is designed to find all the mistakes that your client and boss can find and cover it, so that your client or your boss won't stop pay you.
+9. Test your code's shit out. You are human, you make mistakes. Test is not designed to find all the mistakes. Test is designed to find all the mistakes that your client and boss can find and cover it, so that your client or your boss won't stop pay you.
 
-9. In case 8th didn't leave a image that is stronge enough. Test your code's shit out. You are human, you make mistakes. Test is not designed to find all the mistakes. Test is designed to find all the mistakes that your client and boss can find and cover it, so that your client or your boss won't stop pay you.
+10. In case 9th didn't leave a image that is stronge enough. Test your code's shit out. You are human, you make mistakes. Test is not designed to find all the mistakes. Test is designed to find all the mistakes that your client and boss can find and cover it, so that your client or your boss won't stop pay you.
 
-10. Human always chaos, they eat others. Stay away with other human, expecially when there is a fight between them. If you choose a side in the fight, they will try to eat you alive.
+11. Human always chaos, they eat others. Stay away with other human, expecially when there is a fight between them. If you choose a side in the fight, they will try to eat you alive.
 
-11. Don't believe those people how many lines of code they can type. People who boost the number of lines are generally useless. True Bloody Finger Coder don't count their code, they do audit, they are pround to have lowest time complexity, space complexity and robust.
+12. Don't believe those people how many lines of code they can type. People who boost the number of lines are generally useless. True Bloody Finger Coder don't count their code, they do audit, they are pround to have lowest time complexity, space complexity and robust.
 
-12. There are three schedule in programming, work in daytime, work in night, and work 40 hours a day, which exactly like work 24 hours a day but die faster.
+13. There are three schedule in programming, work in daytime, work in night, and work 40 hours a day, which exactly like work 24 hours a day but die faster.
 
-13. Good programmer don't have hair, they hate hair, they use computer radiation to get rid of them.
+14. Good programmer don't have hair, they hate hair, they use computer radiation to get rid of them.
 
-14. Do not trust your computer and IDE. they are designed by shitty person. Always check your code on different platform is also not enough, you need to check them by printing them down or on a pdf file where you won't think that you find a bug and it's not, but you already mased up and saved it. THINK BEFORE YOUR TYPE!!!
+15. Do not trust your computer and IDE. they are designed by shitty person. Always check your code on different platform is also not enough, you need to check them by printing them down or on a pdf file where you won't think that you find a bug and it's not, but you already mased up and saved it. THINK BEFORE YOUR TYPE!!!
 
-15. 
+16. 

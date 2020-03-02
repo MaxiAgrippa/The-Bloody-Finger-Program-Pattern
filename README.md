@@ -22,7 +22,7 @@ This program pattern would be perfect for you to be in a team which none of the 
 
 7. Whatever it works, do it. You can try to improve it late, but you won't, because you are a human, you don't improve, you REWRITE!!!!
 
-8.Give document to every line of the code, every condition in the condition line, every calculation, operation, call. That's the we to catch the last hope of your project when your stupid team members finally killed some of themselves and start to work.
+8. Give document to every line of the code, every condition in the condition line, every calculation, operation, call. That's the way to catch the last hope of your project when your stupid team members finally killed some of themselves and start to work.
 
 8. Test your code's shit out. You are human, you make mistakes. Test is not designed to find all the mistakes. Test is designed to find all the mistakes that your client and boss can find and cover it, so that your client or your boss won't stop pay you.
 

@@ -30,7 +30,7 @@ This program pattern would be perfect for you to be in a team which none of the 
 
 11. Human always chaos, they eat others. Stay away with other human, expecially when there is a fight between them. If you choose a side in the fight, they will try to eat you alive.
 
-12. Don't believe those people how many lines of code they can type. People who boost the number of lines are generally useless. True Bloody Finger Coder don't count their code, they do audit, they are pround to have lowest time complexity, space complexity and robust.
+12. Don't believe those people how many lines of code they can type. People who boost the number of lines are generally useless. True Bloody Finger Coder don't count their code, they do audit, they are pround to have lowest time complexity, lowest space complexity, strongest robust, and no hair.
 
 13. There are three schedule in programming, work in daytime, work in night, and work 40 hours a day, which exactly like work 24 hours a day but die faster.
 
